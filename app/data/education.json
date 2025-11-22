@@ -1,0 +1,55 @@
+[
+  {
+    "school": "YONSEI UNIVERSITY",
+    "degree": "MASTER OF SCIENCE COURSE - COMPUTER SCIENCE",
+    "dateRange": "Mar 2024 - Present",
+    "advisor": "Advised by Dr. Han Ul Yoon",
+    "concentration": "Robotics",
+    "gpa": null,
+    "courses": [
+      "Linear System Theory",
+      "Natural Language Processing",
+      "Nonlinear System Analysis",
+      "Random Process",
+      "Optimization Theory",
+      "Sequential Decision Making Process",
+      "Digital Signal Processing",
+      "Modeling and Simulation (TA)",
+      "Discrete Mathematics (TA)",
+      "Graph Theory And Apllications (TA)"
+    ]
+  },
+  {
+    "school": "YONSEI UNIVERSITY",
+    "degree": "BACHELOR OF SCIENCE - COMPUTER SCIENCE",
+    "dateRange": "Mar 2020 - Feb 2024",
+    "advisor": null,
+    "concentration": null,
+    "gpa": "3.81 / 4.30",
+    "courses": [
+      "Robot Algorithm",
+      "Artificial Intelligence",
+      "Modeling and Simulation",
+      "Linear Algebra",
+      "Probability and Statistics",
+      "Engineering Mathematics",
+      "AI Mathematics",
+      "Discrete Mathematics",
+      "General Physics and Laboratory",
+      "Calculus & Vector Analysis",
+      "Bio-Computing",
+      "Data Mining",
+      "Introduction to Database Systems",
+      "Data Structure",
+      "Software Engineering",
+      "Operating System",
+      "Computer Architecture",
+      "Open Source SW and Linux",
+      "Windows Programming",
+      "Object Oriented Programming",
+      "Java Programming",
+      "Computer Programming",
+      "Computational Thinking"
+    ]
+  }
+]

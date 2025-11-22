@@ -1,0 +1,279 @@
+[
+  {
+    "id": "light-overexposure",
+    "title": "Light Overexposure-Robust Deep Visual Servoing",
+    "description": "",
+    "links": {
+      "PAPER(Coming soon)": ""
+    },
+    "mediaGroups": [
+      {
+        "type": "images",
+        "gridColumns": 4,
+        "description": "Initial Scene(left) Target Scene(right)",
+        "sources": [
+          "/images/Light_overexposure/Light_overexposure_initialScene.png",
+          "/images/Light_overexposure/Light_overexposure_desiredScene.png"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 2,
+        "description": "Normal(left) OverEXP(right)",
+        "sources": [
+          "/videos/Light_overexposure/Light_overexposure_normal.mp4",
+          "/videos/Light_overexposure/Light_overexposure_overEXP.mp4"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "Ours",
+        "sources": [
+          "/videos/Light_overexposure/Light_overexposure_ours.mp4"
+        ]
+      },
+      {
+        "type": "images",
+        "gridColumns": 1,
+        "description": "Translational and Rotational Error Graph",
+        "sources": [
+          "/images/Light_overexposure/Light_overexposure_Translational_Rotational_Error.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "deep-visual",
+    "title": "Deep Visual Servo Control in Orchard Environments",
+    "description": "",
+    "links": {},
+    "mediaGroups": [
+      {
+        "type": "images",
+        "gridColumns": 4,
+        "description": "Initial Scene(left) Target Scene(right)",
+        "sources": [
+          "/images/Deep_visual/Deep_visual_initialScene.png",
+          "/images/Deep_visual/Deep_visual_desiredScene.png"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "Result Video",
+        "sources": [
+          "/videos/Deep_visual/Deep_visual_normal.mp4"
+        ]
+      },
+      {
+        "type": "images",
+        "gridColumns": 1,
+        "description": "Translational and Rotational Error Graph",
+        "sources": [
+          "/images/Deep_visual/Deep_visual_image.png"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kalman-filters",
+    "title": "Localizing with Kalman Filters: A Probabilistic Implementation Project",
+    "description": "",
+    "links": {},
+    "mediaGroups": [
+      {
+        "type": "videos",
+        "gridColumns": 2,
+        "description": "",
+        "sources": [
+          "/videos/Kalman_Filter/Kalman_filter_1D.mp4",
+          "/videos/Kalman_Filter/Kalman_filter_2D.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bayesian-filters",
+    "title": "Localizing with Bayesian Filters: A Probabilistic Implementation Project",
+    "description": "",
+    "links": {},
+    "mediaGroups": [
+      {
+        "type": "videos",
+        "gridColumns": 2,
+        "description": "",
+        "sources": [
+          "/videos/Bayesian_localization/Bayesian_Localization_1D.mp4",
+          "/videos/Bayesian_localization/Bayesian_Localization_2D.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "probabilistic-forward-projection",
+    "title": "Implementing Probabilistic Forward Projections: A Reinforcement Learning Project",
+    "description": "",
+    "links": {},
+    "mediaGroups": [
+      {
+        "type": "videos",
+        "gridColumns": 2,
+        "description": "",
+        "sources": [
+          "/videos/Probabilistic_Forward_Projection/Probabilistic_Forward_Projection_grid.mp4",
+          "/videos/Probabilistic_Forward_Projection/Probabilistic_Forward_Projection_line.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nondeterministic-forward-projection",
+    "title": "Implementing Nondeterministic Forward Projections: A Reinforcement Learning Project",
+    "description": "",
+    "links": {},
+    "mediaGroups": [
+      {
+        "type": "videos",
+        "gridColumns": 2,
+        "description": "",
+        "sources": [
+          "/videos/Nondeterministic_Forward_Projection/Nondeterministic_Forward_Projection_grid.mp4",
+          "/videos/Nondeterministic_Forward_Projection/Nondeterministic_Forward_Projection_line.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fish-motion",
+    "title": "Rendering Fish Motion: A Dynamic Visualization Project",
+    "description": "",
+    "links": {},
+    "mediaGroups": [
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "",
+        "sources": [
+          "/videos/Fish/Fish_Robot_final.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "aircraft-flight",
+    "title": "Rendering Aircraft Flight: A Dynamic Visualization of Take Off, Climb, Cruise, Approach, and Landing",
+    "description": "",
+    "links": {},
+    "mediaGroups": [
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "",
+        "sources": [
+          "/videos/Aircraft_flight/UAV_final.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "openmanipulator-x",
+    "title": "Rendering OpenMANIPULATOR-X Motion: A Dynamic Visualization Project",
+    "description": "",
+    "links": {},
+    "mediaGroups": [
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "",
+        "sources": [
+          "/videos/OpenMANIPULATOR_X/Manipulator_X.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "icp-registration",
+    "title": "Aligning Object Point Clouds: A Dynamic ICP Registration Project",
+    "description": "",
+    "links": {},
+    "mediaGroups": [
+      {
+        "type": "videos",
+        "gridColumns": 2,
+        "description": "",
+        "sources": [
+          "/videos/ICP_Algorithm/ICP_apple.mp4",
+          "/videos/ICP_Algorithm/ICP_dragon.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coriolis-motion",
+    "title": "Rendering Coriolis Motion: A Dynamic Visualization Project",
+    "description": "",
+    "links": {},
+    "mediaGroups": [
+      {
+        "type": "videos",
+        "gridColumns": 2,
+        "description": "",
+        "sources": [
+          "/videos/Coriolis_Force/Coriolis_Force_Observer_on_fixed_frame.mp4",
+          "/videos/Coriolis_Force/Coriolis_Force_Observer_on_rotating_frame.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mds-motion",
+    "title": "Rendering MDS Motion: A Dynamic Visualization Project",
+    "description": "",
+    "links": {},
+    "mediaGroups": [
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "",
+        "sources": [
+          "/videos/Mass_Spring_Damper/MDS.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pendulum-motion",
+    "title": "Rendering Pendulum Motion: A Dynamic Visualization Project",
+    "description": "",
+    "links": {},
+    "mediaGroups": [
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "",
+        "sources": [
+          "/videos/Pendulum/Pendulum.mp4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bug-algorithm",
+    "title": "Bug-Algorithm Based Navigation for Autonomous Roomba Cleaning Robots",
+    "description": "",
+    "links": {},
+    "mediaGroups": [
+      {
+        "type": "videos",
+        "gridColumns": 2,
+        "description": "",
+        "sources": [
+          "/videos/Bug_Algorithm/Bug1.mp4",
+          "/videos/Bug_Algorithm/Bug2.mp4",
+          "/videos/Bug_Algorithm/TangentBug.mp4"
+        ]
+      }
+    ]
+  }
+]

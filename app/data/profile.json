@@ -1,0 +1,35 @@
+{
+  "name": "SEUNGMIN HYUN",
+  "email": "smhyun@yonsei.ac.kr",
+  "quote": "\"Books reveal the conceptual narrative to me; lectures chart the direction for me; and the real-world implementation secures my conviction.\"",
+  "sections": [
+    {
+      "title": "Yonsei graduate student",
+      "items": [
+        "Pursuing MS in Computer Science, advised by Dr. Han Ul Yoon",
+        "Researching robotics, control and artificial intelligence"
+      ]
+    },
+    {
+      "title": "Former Yonsei student",
+      "items": [
+        "Bachelor of Science(2024) in Computer Engineering",
+        "Teaching Assistant for Robotics: Modeling and Simulation with Dynamics"
+      ]
+    }
+  ],
+  "socialLinks": [
+    {
+      "id": "github",
+      "url": "https://github.com/SM-Hyun"
+    },
+    {
+      "id": "mail",
+      "url": "mailto:smhyun@yonsei.ac.kr"
+    },
+    {
+      "id": "linkedin",
+      "url": "https://www.linkedin.com/in/sm-hyun"
+    }
+  ]
+}
