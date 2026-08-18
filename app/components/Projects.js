@@ -91,7 +91,7 @@ export const Projects = () => {
                     return (
                       <div
                         key={`${project.id}-group-${groupIdx}`}
-                        className="flex flex-col gap-y-2"
+                        className="flex flex-col gap-y-2 mb-8 last:mb-0"
                       >
                         {/* 그룹 소제목 (예: SiL / HiL) */}
                         {group.heading && (
