@@ -46,8 +46,8 @@ export const Projects = () => {
             <React.Fragment key={project.id ?? projectIdx}>
               <li className="flex flex-col gap-y-4">
                 {/* 타이틀 */}
-                <h2 className="text-2xl sm:text-3xl md:text-3xl font-bold">
-                  {project.title}
+                <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-main">
+                  🤖 {project.title}
                 </h2>
 
                 {/* (선택) 프로젝트 전체 description */}
