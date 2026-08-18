@@ -43,6 +43,7 @@
       {
         "type": "images",
         "gridColumns": 4,
+        "heading": "HiL",
         "description": "Initial Scene(left) Target Scene(right)",
         "sources": [
           "/images/Light_overexposure/Light_overexposure_initialScene.png",
