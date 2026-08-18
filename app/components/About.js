@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 import profile from '../data/profile.json';
 
 export const About = () => {
@@ -17,6 +18,15 @@ export const About = () => {
             ABOUT ME
           </h1>
         </div>
+
+        {/* 학문적 계보: Hutchinson — Yoon — Hyun */}
+        <Image
+          src="/images/about/about_me.jpg"
+          alt="Academic lineage: Seth A. Hutchinson, Han Ul Yoon, and Seungmin Hyun"
+          width={720}
+          height={303}
+          className="w-full max-w-[720px] h-auto rounded-md"
+        />
 
         <div className="flex flex-col text-lg sm:text-xl md:text-3xl gap-y-6 md:gap-y-10 font-light leading-relaxed">
           <h3>
