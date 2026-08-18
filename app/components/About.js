@@ -28,7 +28,7 @@ export const About = () => {
             >
               HAN Lab
             </a>{' '}
-            at Yonsei University pursuing a MS in Computer Science under{' '} Dr. Han Ul Yoon.
+            at Yonsei University pursuing an MS in Computer Science under Dr. Han Ul Yoon.
           </h3>
           <h3>
             My research centers primarily on combining diffusion-based models

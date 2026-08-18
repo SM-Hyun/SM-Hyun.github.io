@@ -2,6 +2,7 @@
 import React from 'react';
 import Image from 'next/image';
 import projects from '../data/projects.json';
+import { LazyVideo } from './LazyVideo';
 
 export const Projects = () => {
   const formatLinkLabel = (key) => key.replace(/_/g, ' ').toUpperCase();
@@ -62,14 +63,21 @@ export const Projects = () => {
                   <ul className="flex flex-row flex-wrap gap-x-4 gap-y-2">
                     {Object.entries(project.links).map(([key, url]) => (
                       <li key={`${project.id}-link-${key}`}>
-                        <a
-                          href={url}
-                          target="_blank"
-                          rel="noreferrer"
-                          className="font-semibold text-blue-60 hover:text-primary transition-colors duration-200 text-sm sm:text-xl"
-                        >
-                          {formatLinkLabel(key)}
-                        </a>
+                        {url ? (
+                          <a
+                            href={url}
+                            target="_blank"
+                            rel="noreferrer"
+                            className="font-semibold text-blue-60 hover:text-primary transition-colors duration-200 text-sm sm:text-xl"
+                          >
+                            {formatLinkLabel(key)}
+                          </a>
+                        ) : (
+                          // URL이 아직 없는 링크(예: PAPER coming soon)는 링크가 아닌 배지로 표시
+                          <span className="font-semibold text-neutral-400 cursor-default text-sm sm:text-xl">
+                            {formatLinkLabel(key)}
+                          </span>
+                        )}
                       </li>
                     ))}
                   </ul>
@@ -109,12 +117,8 @@ export const Projects = () => {
                                   key={`${project.id}-video-${groupIdx}-${srcIdx}`}
                                   className="flex flex-col gap-1"
                                 >
-                                  <video
+                                  <LazyVideo
                                     src={src}
-                                    autoPlay
-                                    loop
-                                    muted
-                                    playsInline
                                     className="w-full rounded-md"
                                   />
                                   {caption && (
