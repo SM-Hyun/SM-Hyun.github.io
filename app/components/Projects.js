@@ -96,7 +96,7 @@ export const Projects = () => {
                         {/* 그룹 소제목 (예: SiL / HiL) — 프로젝트 제목과 구분되는 구간 라벨 스타일 */}
                         {group.heading && (
                           <div className="flex items-center gap-x-4 mt-6 mb-2">
-                            <span className="bg-main text-common-100 text-sm sm:text-base md:text-lg font-semibold tracking-wider px-4 py-1.5 rounded-md">
+                            <span className="bg-main text-common-100 text-lg sm:text-xl md:text-2xl font-semibold tracking-wider px-5 py-2 rounded-lg">
                               {group.heading}
                             </span>
                             <div className="flex-1 h-[1px] bg-light-90" />
