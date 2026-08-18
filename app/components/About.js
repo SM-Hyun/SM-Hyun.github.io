@@ -20,15 +20,17 @@ export const About = () => {
 
         <div className="flex flex-col text-lg sm:text-xl md:text-3xl gap-y-6 md:gap-y-10 font-light leading-relaxed">
           <h3>
-            I am a graduate student in the{' '}
+            I received an MS in Computer Science from Yonsei University in
+            February 2026, where I conducted research in the{' '}
             <a
               href="https://hanlabhome.wordpress.com/"
               target="_blank"
+              rel="noreferrer"
               className="font-medium text-main hover:text-primary transition-colors duration-200"
             >
               HAN Lab
             </a>{' '}
-            at Yonsei University pursuing an MS in Computer Science under Dr. Han Ul Yoon.
+            under Dr. Han Ul Yoon.
           </h3>
           <h3>
             My research centers primarily on combining diffusion-based models

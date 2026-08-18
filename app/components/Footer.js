@@ -22,7 +22,7 @@ export const Footer = () => {
             © {year} {profile.name}
           </span>
           <span className="text-neutral-500">
-            Graduate Student, HAN Lab · Yonsei University
+            MS in Computer Science, HAN Lab · Yonsei University
           </span>
         </div>
 
