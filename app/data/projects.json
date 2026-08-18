@@ -82,6 +82,104 @@
         "sources": [
           "/images/Light_overexposure/fig13.png"
         ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "heading": "HiL (Over-illumination)",
+        "description": "Digital Twin (Normal): Virtual Twin(Left), Real Twin(Right)",
+        "sources": [
+          "/videos/SAFER_VS_HiL/SAFER_VS_Normal_Chang277_Cam_15s.mp4"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "DeepVS(Left), Image error(Middle), 6D pose error(Right)",
+        "sources": [
+          "/videos/SAFER_VS_HiL/SAFER_VS_Normal_overEXP_Chang277_15s.mp4"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "Digital Twin (Over-illumination): Virtual Twin(Left), Real Twin(Right)",
+        "sources": [
+          "/videos/SAFER_VS_HiL/SAFER_VS_OverEXP_Chang277_Cam_15s.mp4"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "DeepVS(Left), Image error(Middle), 6D pose error(Right)",
+        "sources": [
+          "/videos/SAFER_VS_HiL/SAFER_VS_OverEXP_Chang277_15s.mp4"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "Digital Twin (Ours): Virtual Twin(Left), Real Twin(Right)",
+        "sources": [
+          "/videos/SAFER_VS_HiL/SAFER_VS_Ours_OverEXP_Chang277_Cam_15s.mp4"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "DeepVS(Left), Image error(Middle), 6D pose error(Right)",
+        "sources": [
+          "/videos/SAFER_VS_HiL/SAFER_VS_Ours_OverEXP_Chang277_15s.mp4"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "heading": "HiL (Under-illumination)",
+        "description": "Digital Twin (Normal): Virtual Twin(Left), Real Twin(Right)",
+        "sources": [
+          "/videos/SAFER_VS_HiL/SAFER_VS_Normal_Chang277_Cam_15s.mp4"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "DeepVS(Left), Image error(Middle), 6D pose error(Right)",
+        "sources": [
+          "/videos/SAFER_VS_HiL/SAFER_VS_Normal_underEXP_Chang277_15s.mp4"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "Digital Twin (Under-illumination): Virtual Twin(Left), Real Twin(Right)",
+        "sources": [
+          "/videos/SAFER_VS_HiL/SAFER_VS_UnderEXP_Chang277_Cam_15s.mp4"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "DeepVS(Left), Image error(Middle), 6D pose error(Right)",
+        "sources": [
+          "/videos/SAFER_VS_HiL/SAFER_VS_UnderEXP_Chang277_15s.mp4"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "Digital Twin (Ours): Virtual Twin(Left), Real Twin(Right)",
+        "sources": [
+          "/videos/SAFER_VS_HiL/SAFER_VS_Ours_UnderEXP_Chang277_Cam_15s.mp4"
+        ]
+      },
+      {
+        "type": "videos",
+        "gridColumns": 1,
+        "description": "DeepVS(Left), Image error(Middle), 6D pose error(Right)",
+        "sources": [
+          "/videos/SAFER_VS_HiL/SAFER_VS_Ours_UnderEXP_Chang277_15s.mp4"
+        ]
       }
     ]
   },
