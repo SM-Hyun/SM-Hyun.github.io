@@ -9,6 +9,39 @@
     "mediaGroups": [
       {
         "type": "images",
+        "gridColumns": 1,
+        "description": "Examples of input-scene deterioration during apple harvesting in outdoor orchard environments",
+        "sources": [
+          "/images/Light_overexposure/fig1.jpg"
+        ]
+      },
+      {
+        "type": "images",
+        "gridColumns": 1,
+        "description": "Overall architecture of the proposed digital-twin-based deep visual servoing framework",
+        "sources": [
+          "/images/Light_overexposure/Framework_coming_soon.png"
+        ]
+      },
+      {
+        "type": "images",
+        "gridColumns": 1,
+        "description": "Experimental testbeds used to validate the proposed framework. In the software-in-the-loop (SiL) testbed, both the real twin and the virtual twin are constructed in Isaac Sim, whereas in the hardware-in-the-loop (HiL) testbed, the real twin is implemented in the physical orchard environment and the virtual twin is maintained in simulation.",
+        "sources": [
+          "/images/Light_overexposure/fig5.jpg"
+        ]
+      },
+      {
+        "type": "images",
+        "gridColumns": 1,
+        "heading": "SiL",
+        "description": "Changes in camera pose error during visual servoing in the SiL testbed",
+        "sources": [
+          "/images/Light_overexposure/fig12.png"
+        ]
+      },
+      {
+        "type": "images",
         "gridColumns": 4,
         "description": "Initial Scene(left) Target Scene(right)",
         "sources": [

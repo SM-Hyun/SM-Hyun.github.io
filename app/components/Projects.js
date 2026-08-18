@@ -93,7 +93,12 @@ export const Projects = () => {
                         key={`${project.id}-group-${groupIdx}`}
                         className="flex flex-col gap-y-2"
                       >
-
+                        {/* 그룹 소제목 (예: SiL / HiL) */}
+                        {group.heading && (
+                          <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mt-4">
+                            {group.heading}
+                          </h3>
+                        )}
 
                         {/* 그리드 */}
                         <div
