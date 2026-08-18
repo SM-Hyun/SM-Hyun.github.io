@@ -86,7 +86,9 @@ export const Projects = () => {
                 {/* mediaGroups */}
                 {project.mediaGroups &&
                   project.mediaGroups.map((group, groupIdx) => {
-                    if (!group.sources || group.sources.length === 0) return null;
+                    const hasSources = group.sources && group.sources.length > 0;
+                    // 소스도 소제목도 없는 그룹만 건너뜀 (소제목만 있는 그룹은 라벨로 렌더)
+                    if (!hasSources && !group.heading) return null;
 
                     return (
                       <div
@@ -103,7 +105,8 @@ export const Projects = () => {
                           </div>
                         )}
 
-                        {/* 그리드 */}
+                        {/* 그리드 (소스가 있을 때만) */}
+                        {hasSources && (
                         <div
                           className={`grid gap-4 grid-cols-1 ${colsClass(
                             group.gridColumns
@@ -162,6 +165,7 @@ export const Projects = () => {
                             );
                           })}
                         </div>
+                        )}
 
                         {/* 섹션(그룹) 설명 */}
                         {group.description &&

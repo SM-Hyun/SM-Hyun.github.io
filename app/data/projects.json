@@ -43,7 +43,6 @@
       {
         "type": "images",
         "gridColumns": 4,
-        "heading": "HiL",
         "description": "Initial Scene(left) Target Scene(right)",
         "sources": [
           "/images/Light_overexposure/Light_overexposure_initialScene.png",
@@ -74,6 +73,13 @@
         "sources": [
           "/images/Light_overexposure/Light_overexposure_Translational_Rotational_Error.png"
         ]
+      },
+      {
+        "type": "images",
+        "gridColumns": 1,
+        "heading": "HiL",
+        "description": "",
+        "sources": []
       }
     ]
   },
