@@ -68,7 +68,7 @@ export const Nav = () => {
                 src={profileImage}
                 alt="ProfileImage"
                 className="w-full h-full object-cover"
-                style={{ objectPosition: 'center 0%' }}
+                style={{ objectPosition: 'center 25%' }}
               />
             </div>
             <div className="flex flex-col">
@@ -146,7 +146,7 @@ export const Nav = () => {
               src={profileImage}
               alt="ProfileImage"
               className="object-cover"
-              style={{ objectPosition: 'center 0%' }}
+              style={{ objectPosition: 'center 25%' }}
             />
           </div>
           <div className="w-[80%]">
