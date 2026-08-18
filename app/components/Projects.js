@@ -93,11 +93,14 @@ export const Projects = () => {
                         key={`${project.id}-group-${groupIdx}`}
                         className="flex flex-col gap-y-2 mb-8 last:mb-0"
                       >
-                        {/* 그룹 소제목 (예: SiL / HiL) */}
+                        {/* 그룹 소제목 (예: SiL / HiL) — 프로젝트 제목과 구분되는 구간 라벨 스타일 */}
                         {group.heading && (
-                          <h3 className="text-xl sm:text-2xl md:text-3xl font-semibold mt-4">
-                            {group.heading}
-                          </h3>
+                          <div className="flex items-center gap-x-4 mt-6 mb-2">
+                            <span className="bg-main text-common-100 text-sm sm:text-base md:text-lg font-semibold tracking-wider px-4 py-1.5 rounded-md">
+                              {group.heading}
+                            </span>
+                            <div className="flex-1 h-[1px] bg-light-90" />
+                          </div>
                         )}
 
                         {/* 그리드 */}
