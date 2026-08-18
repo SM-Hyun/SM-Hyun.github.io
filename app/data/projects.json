@@ -78,8 +78,10 @@
         "type": "images",
         "gridColumns": 1,
         "heading": "HiL",
-        "description": "",
-        "sources": []
+        "description": "Changes in camera pose error during visual servoing in the HiL testbed",
+        "sources": [
+          "/images/Light_overexposure/fig13.png"
+        ]
       }
     ]
   },
