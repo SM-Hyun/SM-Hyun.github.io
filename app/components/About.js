@@ -33,13 +33,17 @@ export const About = () => {
             under Dr. Han Ul Yoon.
           </h3>
           <h3>
-            My research centers primarily on combining diffusion-based models
-            with visual servo control, with a focus on the intersection of
-            robotics, control, and artificial intelligence. This approach
-            leverages diffusion-based models to achieve consistently stable
-            visual servoing even in highly unstructured environments, ultimately
-            enabling robots to operate reliably in disaster response scenarios
-            where robustness and adaptability are critical.
+            My research centers on risk-aware robot control in extreme
+            environments — leveraging digital twin-based frameworks to detect
+            operational risks in real time, so that robots can carry out their
+            tasks safely and reliably even under severe real-world uncertainty.
+          </h3>
+          <h3>
+            This work lies at the intersection of robotics, control, and
+            artificial intelligence. Within field robotics, my main focus is
+            disaster robotics — the ultimate goal of my work is to enable
+            robots to operate reliably in disaster response scenarios, where
+            robustness and adaptability are critical.
           </h3>
           <h3>
             Previously, I received a Bachelor of Science in Computer Engineering
