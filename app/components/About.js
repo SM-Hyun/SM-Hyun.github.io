@@ -30,7 +30,7 @@ export const About = () => {
 
         <div className="flex flex-col text-lg sm:text-xl md:text-3xl gap-y-6 md:gap-y-10 font-light leading-relaxed max-w-4xl">
           <h3>
-            I received an MS in Computer Science from Yonsei University in
+            I received my M.S. in Computer Science from Yonsei University in
             February 2026, where I conducted research in the{' '}
             <a
               href="https://hanlabhome.wordpress.com/"
@@ -38,9 +38,12 @@ export const About = () => {
               rel="noreferrer"
               className="font-medium text-main hover:text-primary transition-colors duration-200"
             >
-              HAN Lab
+              Human Assistive Neurorobotics (HAN) Lab
             </a>{' '}
-            under Dr. Han Ul Yoon.
+            under the supervision of Prof. Han Ul Yoon. Prof. Yoon earned his
+            Ph.D. under Prof. Seth A. Hutchinson at the University of Illinois
+            Urbana-Champaign, placing my research in the direct academic lineage
+            of visual servo control.
           </h3>
           <h3>
             My research centers on risk-aware robot control in extreme
