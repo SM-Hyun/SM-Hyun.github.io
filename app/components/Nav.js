@@ -4,6 +4,7 @@ import {
   House,
   Note,
   User,
+  Article,
   SquaresFour,
   GithubLogo,
   InstagramLogo,
@@ -22,6 +23,7 @@ const navList = [
   { id: 'home', icon: House, name: 'HOME' },
   { id: 'education', icon: Note, name: 'EDUCATION' },
   { id: 'about', icon: User, name: 'ABOUT' },
+  { id: 'publications', icon: Article, name: 'PUBLICATIONS' },
   { id: 'projects', icon: SquaresFour, name: 'PROJECTS' }
 ];
 
