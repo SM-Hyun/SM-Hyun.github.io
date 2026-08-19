@@ -11,7 +11,18 @@ const PubList = ({ items }) => (
             {pub.year}
           </span>
           <h3 className="text-base sm:text-lg md:text-2xl font-semibold leading-snug">
-            {pub.title}
+            {pub.link ? (
+              <a
+                href={pub.link}
+                target="_blank"
+                rel="noreferrer"
+                className="hover:text-main transition-colors duration-200 underline decoration-light-80 underline-offset-4"
+              >
+                {pub.title}
+              </a>
+            ) : (
+              pub.title
+            )}
           </h3>
         </div>
         <div className="ml-10 sm:ml-12 md:ml-16 flex flex-col gap-y-1">

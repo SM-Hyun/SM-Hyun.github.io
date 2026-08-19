@@ -2,37 +2,64 @@
   "firstAuthor": [
     {
       "year": "2026",
-      "title": "Pose-based Deep Visual Servo Control for Target Image Acquisition under Challenging Illumination",
-      "authors": ["Seungmin Hyun", "Janghyeon Kim", "Han Ul Yoon"],
-      "venue": "Domestic Conference (Korea)",
-      "award": null
+      "title": "Pose-Based Deep Visual Servoing Control for Stable Target Image Acquisition Under Illumination Disturbances",
+      "authors": [
+        "Seungmin Hyun",
+        "Janghyeon Kim",
+        "Han Ul Yoon"
+      ],
+      "venue": "Journal of Korean Institute of Intelligent Systems (JKIIS), Vol. 36, No. 2, pp. 113-121",
+      "award": null,
+      "link": "https://doi.org/10.5391/JKIIS.2026.36.2.113"
     },
     {
       "year": "2025",
       "title": "Mapping onto Feasible and Infeasible Submanifolds in C-space for Stable Deep Visual Servo Control",
-      "authors": ["Seungmin Hyun", "Janghyeon Kim", "Han Ul Yoon"],
-      "venue": "Domestic Conference (Korea)",
+      "authors": [
+        "Seungmin Hyun",
+        "Janghyeon Kim",
+        "Han Ul Yoon"
+      ],
+      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
       "award": "Distinguished Paper Award"
     },
     {
       "year": "2024",
       "title": "Optimal Visual Servo Control Methodology via Constraint Hypersurface Reconstruction",
-      "authors": ["Seungmin Hyun", "Song Woo Kim", "Chanjin Park", "Jungwoo Lee", "Ho-Jin Jung", "Han Ul Yoon"],
-      "venue": "International Conference",
+      "authors": [
+        "Seungmin Hyun",
+        "Song Woo Kim",
+        "Chanjin Park",
+        "Jungwoo Lee",
+        "Ho-Jin Jung",
+        "Han Ul Yoon"
+      ],
+      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
       "award": null
     },
     {
       "year": "2024",
       "title": "Deep Visual Servo Control to Reach a Target Scene",
-      "authors": ["Seungmin Hyun", "Songwoo Kim", "Chanjin Park", "Jungwoo Lee", "Ho-Jin Jung", "Han Ul Yoon"],
-      "venue": "International Conference",
+      "authors": [
+        "Seungmin Hyun",
+        "Songwoo Kim",
+        "Chanjin Park",
+        "Jungwoo Lee",
+        "Ho-Jin Jung",
+        "Han Ul Yoon"
+      ],
+      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
       "award": null
     },
     {
       "year": "2023",
       "title": "Visual Servo Control and Robot Grasping for Robotic Remote Therapeutics",
-      "authors": ["Seungmin Hyun", "Jungwoo Lee", "Han Ul Yoon"],
-      "venue": "Domestic Conference (Korea)",
+      "authors": [
+        "Seungmin Hyun",
+        "Jungwoo Lee",
+        "Han Ul Yoon"
+      ],
+      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
       "award": null
     }
   ],
@@ -40,36 +67,70 @@
     {
       "year": "2024",
       "title": "Robot Manipulator Path Planning using Point Cloud Input Neural Network",
-      "authors": ["Jungwoo Lee", "Songwoo Kim", "Chanjin Park", "Seungmin Hyun", "Ho-Jin Jung", "Han Ul Yoon"],
-      "venue": "International Conference",
+      "authors": [
+        "Jungwoo Lee",
+        "Songwoo Kim",
+        "Chanjin Park",
+        "Seungmin Hyun",
+        "Ho-Jin Jung",
+        "Han Ul Yoon"
+      ],
+      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
       "award": "Distinguished Paper Award"
     },
     {
       "year": "2024",
       "title": "A Generative Model-based Approach to Obtain a Robust Trajectory against Noisy Human Demonstration Data",
-      "authors": ["Chanjin Park", "Jungwoo Lee", "Seungmin Hyun", "Songwoo Kim", "Ho-Jin Jung", "Han Ul Yoon"],
-      "venue": "International Conference",
+      "authors": [
+        "Chanjin Park",
+        "Jungwoo Lee",
+        "Seungmin Hyun",
+        "Songwoo Kim",
+        "Ho-Jin Jung",
+        "Han Ul Yoon"
+      ],
+      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
       "award": null
     },
     {
       "year": "2024",
       "title": "Robot Manipulator Planning using a Multiplicative Value Function for Dynamic Obstacle Avoidance",
-      "authors": ["Song Woo Kim", "Chanjin Park", "Jungwoo Lee", "Seungmin Hyun", "Ho-Jin Jung", "Han Ul Yoon"],
-      "venue": "International Conference",
+      "authors": [
+        "Song Woo Kim",
+        "Chanjin Park",
+        "Jungwoo Lee",
+        "Seungmin Hyun",
+        "Ho-Jin Jung",
+        "Han Ul Yoon"
+      ],
+      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
       "award": null
     },
     {
       "year": "2024",
       "title": "Predicting Joint Movement Trajectories from the ECoG Signal Patterns of Apes",
-      "authors": ["Chanjin Park", "Jungwoo Lee", "Seungmin Hyun", "Ho-Jin Jung", "Han Ul Yoon"],
-      "venue": "International Conference",
+      "authors": [
+        "Chanjin Park",
+        "Jungwoo Lee",
+        "Seungmin Hyun",
+        "Ho-Jin Jung",
+        "Han Ul Yoon"
+      ],
+      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
       "award": null
     },
     {
       "year": "2023",
       "title": "6D Pose Estimation using RGBd Camera for Symmetric Objects",
-      "authors": ["Jungwoo Lee", "Song Woo Kim", "Chanjin Park", "Seungmin Hyun", "Ho-Jin Jung", "Han Ul Yoon"],
-      "venue": "Domestic Conference (Korea)",
+      "authors": [
+        "Jungwoo Lee",
+        "Song Woo Kim",
+        "Chanjin Park",
+        "Seungmin Hyun",
+        "Ho-Jin Jung",
+        "Han Ul Yoon"
+      ],
+      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
       "award": "Distinguished Paper Award"
     }
   ],
