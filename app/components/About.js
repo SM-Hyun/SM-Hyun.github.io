@@ -12,7 +12,7 @@ export const About = () => {
       id="about"
       className="min-h-screen flex items-center px-4 py-20 sm:px-6 md:p-10"
     >
-      <div className="flex flex-col gap-y-10 md:gap-y-20 max-w-4xl">
+      <div className="flex flex-col gap-y-10 md:gap-y-20 max-w-6xl w-full">
         <div className="flex flex-col">
           <h1 className="text-4xl sm:text-5xl md:text-7xl font-semibold">
             ABOUT ME
@@ -23,12 +23,12 @@ export const About = () => {
         <Image
           src="/images/about/about_me.jpg"
           alt="Academic lineage: Seth A. Hutchinson, Han Ul Yoon, and Seungmin Hyun"
-          width={720}
-          height={303}
-          className="w-full max-w-[720px] h-auto rounded-md"
+          width={1920}
+          height={813}
+          className="w-full h-auto rounded-md"
         />
 
-        <div className="flex flex-col text-lg sm:text-xl md:text-3xl gap-y-6 md:gap-y-10 font-light leading-relaxed">
+        <div className="flex flex-col text-lg sm:text-xl md:text-3xl gap-y-6 md:gap-y-10 font-light leading-relaxed max-w-4xl">
           <h3>
             I received an MS in Computer Science from Yonsei University in
             February 2026, where I conducted research in the{' '}
