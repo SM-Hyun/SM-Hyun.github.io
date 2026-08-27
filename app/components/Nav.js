@@ -5,6 +5,7 @@ import {
   GraduationCap,
   User,
   Article,
+  Flask,
   SquaresFour,
   GithubLogo,
   InstagramLogo,
@@ -24,6 +25,7 @@ const navList = [
   { id: 'education', icon: GraduationCap, name: 'EDUCATION' },
   { id: 'about', icon: User, name: 'ABOUT' },
   { id: 'publications', icon: Article, name: 'PUBLICATIONS' },
+  { id: 'research', icon: Flask, name: 'RESEARCH' },
   { id: 'projects', icon: SquaresFour, name: 'PROJECTS' }
 ];
 

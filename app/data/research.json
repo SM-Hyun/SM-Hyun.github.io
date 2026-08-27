@@ -1,0 +1,42 @@
+[
+  {
+    "titleKo": "실외 과수환경에서 1분에 3개 이상 연속적인 과실 수확과 다중 운반로봇 관제가 가능한 농작업 로봇플랫폼 개발",
+    "titleEn": "Development of an Agricultural Robot Platform for Continuous Fruit Harvesting (3+ Fruits per Minute) and Multi-Robot Transport Coordination in Outdoor Orchards",
+    "period": "Apr 2023 - Dec 2025"
+  },
+  {
+    "titleKo": "파킨슨병 진단/치료를 위한 무선 폐루프 뇌신경 자극기",
+    "titleEn": "Wireless Closed-Loop Neurostimulator for Diagnosis and Treatment of Parkinson's Disease",
+    "period": "Jul 2024 - Dec 2025"
+  },
+  {
+    "titleKo": "휴머노이드 장기 운용을 위한 복합 감각 기반 에너지 효율적 전신 행동지능 개발",
+    "titleEn": "Development of Energy-Efficient Whole-Body Behavioral Intelligence Based on Multimodal Sensing for Long-Term Humanoid Operation",
+    "period": "Apr 2025 - Jun 2025"
+  },
+  {
+    "titleKo": "하이퍼모달 인지능력 및 역할다양성을 소유한 메타-휴머노이드: Adroid4X",
+    "titleEn": "Meta-Humanoid with Hypermodal Cognitive Capability and Role Diversity: Adroid4X",
+    "period": "Apr 2024 - Dec 2024"
+  },
+  {
+    "titleKo": "노지 과수 수확용 로봇암 위치제어를 위한 Sim-To-Real 심층 강화학습 플랫폼 구축",
+    "titleEn": "Sim-to-Real Deep Reinforcement Learning Platform for Robot Arm Position Control in Open-Field Fruit Harvesting",
+    "period": "Jun 2024 - Oct 2024"
+  },
+  {
+    "titleKo": "시각 정보가 제한된 비정형 환경에서의 로봇 매니퓰레이터 물체 파지를 위한 메타-러닝 기반 Peep-and-Pick 알고리즘",
+    "titleEn": "Meta-Learning-Based Peep-and-Pick Algorithm for Robotic Object Grasping in Unstructured Environments with Limited Visual Information",
+    "period": "Mar 2023 - Feb 2024"
+  },
+  {
+    "titleKo": "6D포즈 인식 기반 과실파지포즈 생성용 메타-강화학습 플래너 개발",
+    "titleEn": "Development of a Meta-Reinforcement Learning Planner for Fruit-Grasping Pose Generation Based on 6D Pose Recognition",
+    "period": "Aug 2023 - Dec 2023"
+  },
+  {
+    "titleKo": "메타-강화학습 기반 로봇암 조립 동작 계획 및 실증 프레임워크 구축",
+    "titleEn": "Meta-Reinforcement Learning Framework for Robot Arm Assembly Motion Planning and Validation",
+    "period": "Aug 2023 - Oct 2023"
+  }
+]

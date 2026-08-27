@@ -5,6 +5,7 @@ import { Home } from './components/Home';
 import { Education } from './components/Education';
 import { About } from './components/About';
 import { Publications } from './components/Publications';
+import { ResearchExperience } from './components/ResearchExperience';
 import { Projects } from './components/Projects';
 import { Footer } from './components/Footer';
 
@@ -12,7 +13,7 @@ export default function Root() {
   const { setActiveSection } = useActiveSection();
 
   useEffect(() => {
-    const sectionIds = ['home', 'education', 'about', 'publications', 'projects'];
+    const sectionIds = ['home', 'education', 'about', 'publications', 'research', 'projects'];
     // threshold(요소 높이 대비 비율) 방식은 뷰포트보다 훨씬 긴 섹션(PROJECTS 등)에서는
     // 절대 도달할 수 없으므로, "뷰포트 세로 중앙 20% 띠에 걸친 섹션"을 활성으로 판정한다.
     const options = {
@@ -49,6 +50,7 @@ export default function Root() {
       <Education />
       <About />
       <Publications />
+      <ResearchExperience />
       <Projects />
       <Footer />
     </div>
