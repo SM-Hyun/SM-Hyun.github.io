@@ -1,6 +1,7 @@
 import { Check } from '@phosphor-icons/react';
 import React from 'react';
 import educationData from '../data/education.json';
+import certificatesData from '../data/certificates.json';
 
 export const Education = () => {
   return (
@@ -79,6 +80,35 @@ export const Education = () => {
             </li>
           ))}
         </ul>
+
+        <div className="w-full h-[1px] bg-light-90" />
+
+        <div className="flex flex-col gap-y-6 md:gap-y-8 w-full">
+          <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold">
+            Certificates
+          </h2>
+          <ul className="flex flex-col gap-y-5 md:gap-y-6 w-full">
+            {certificatesData.map((cert, idx) => (
+              <li key={idx}>
+                <div className="flex flex-col md:flex-row md:justify-between gap-y-1">
+                  <div className="flex flex-col">
+                    <h3 className="text-lg sm:text-xl md:text-2xl font-semibold">
+                      {cert.title}
+                    </h3>
+                    <h4 className="text-sm sm:text-base md:text-lg font-light">
+                      {cert.issuer}
+                    </h4>
+                  </div>
+                  <div className="flex justify-start md:justify-end">
+                    <h6 className="text-sm sm:text-base md:text-xl text-main shrink-0">
+                      {cert.date}
+                    </h6>
+                  </div>
+                </div>
+              </li>
+            ))}
+          </ul>
+        </div>
       </div>
     </section>
   );
