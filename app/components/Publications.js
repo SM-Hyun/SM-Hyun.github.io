@@ -73,7 +73,7 @@ export const Publications = () => {
 
         <div className="flex flex-col gap-y-6 md:gap-y-8 w-full">
           <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold">
-            Co-Authored
+            Second-Author
           </h2>
           <PubList items={publications.coAuthored} />
         </div>
