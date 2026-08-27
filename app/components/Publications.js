@@ -39,7 +39,8 @@ const PubList = ({ items }) => (
             ))}
           </p>
           <p className="text-sm sm:text-base md:text-lg text-secondary">
-            {pub.venue}
+            <span className="italic">{pub.venue}</span>
+            {pub.venueNote && <span>{pub.venueNote}</span>}
             {pub.award && (
               <span className="ml-2 font-medium text-main">🏆 {pub.award}</span>
             )}

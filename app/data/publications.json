@@ -8,7 +8,8 @@
         "Janghyeon Kim",
         "Han Ul Yoon"
       ],
-      "venue": "Journal of Korean Institute of Intelligent Systems (JKIIS), Vol. 36, No. 2, pp. 113-121",
+      "venue": "Journal of Korean Institute of Intelligent Systems (JKIIS)",
+      "venueNote": ", Vol. 36, No. 2, pp. 113-121",
       "award": null,
       "link": "https://doi.org/10.5391/JKIIS.2026.36.2.113"
     },
@@ -20,7 +21,8 @@
         "Janghyeon Kim",
         "Han Ul Yoon"
       ],
-      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
+      "venue": "Proceedings of the KIIS Conference",
+      "venueNote": " (Korean Institute of Intelligent Systems)",
       "award": "Distinguished Paper Award"
     },
     {
@@ -34,7 +36,8 @@
         "Ho-Jin Jung",
         "Han Ul Yoon"
       ],
-      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
+      "venue": "Proceedings of the KIIS Conference",
+      "venueNote": " (Korean Institute of Intelligent Systems)",
       "award": null
     },
     {
@@ -42,13 +45,14 @@
       "title": "Deep Visual Servo Control to Reach a Target Scene",
       "authors": [
         "Seungmin Hyun",
-        "Songwoo Kim",
+        "Song Woo Kim",
         "Chanjin Park",
         "Jungwoo Lee",
         "Ho-Jin Jung",
         "Han Ul Yoon"
       ],
-      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
+      "venue": "Proceedings of the KIIS Conference",
+      "venueNote": " (Korean Institute of Intelligent Systems)",
       "award": null
     },
     {
@@ -59,7 +63,8 @@
         "Jungwoo Lee",
         "Han Ul Yoon"
       ],
-      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
+      "venue": "Proceedings of the KIIS Conference",
+      "venueNote": " (Korean Institute of Intelligent Systems)",
       "award": null
     }
   ],
@@ -69,13 +74,14 @@
       "title": "Robot Manipulator Path Planning using Point Cloud Input Neural Network",
       "authors": [
         "Jungwoo Lee",
-        "Songwoo Kim",
+        "Song Woo Kim",
         "Chanjin Park",
         "Seungmin Hyun",
         "Ho-Jin Jung",
         "Han Ul Yoon"
       ],
-      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
+      "venue": "Proceedings of the KIIS Conference",
+      "venueNote": " (Korean Institute of Intelligent Systems)",
       "award": "Distinguished Paper Award"
     },
     {
@@ -85,11 +91,12 @@
         "Chanjin Park",
         "Jungwoo Lee",
         "Seungmin Hyun",
-        "Songwoo Kim",
+        "Song Woo Kim",
         "Ho-Jin Jung",
         "Han Ul Yoon"
       ],
-      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
+      "venue": "Proceedings of the KIIS Conference",
+      "venueNote": " (Korean Institute of Intelligent Systems)",
       "award": null
     },
     {
@@ -103,7 +110,8 @@
         "Ho-Jin Jung",
         "Han Ul Yoon"
       ],
-      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
+      "venue": "Proceedings of the KIIS Conference",
+      "venueNote": " (Korean Institute of Intelligent Systems)",
       "award": null
     },
     {
@@ -116,7 +124,8 @@
         "Ho-Jin Jung",
         "Han Ul Yoon"
       ],
-      "venue": "Proceedings of SCIS&ISIS 2024 (International Symposium on Advanced Intelligent Systems), Nov. 2024",
+      "venue": "Proceedings of SCIS&ISIS 2024",
+      "venueNote": " (International Symposium on Advanced Intelligent Systems), Nov. 2024",
       "award": null
     },
     {
@@ -130,7 +139,8 @@
         "Ho-Jin Jung",
         "Han Ul Yoon"
       ],
-      "venue": "Proceedings of the KIIS Conference (Korean Institute of Intelligent Systems)",
+      "venue": "Proceedings of the KIIS Conference",
+      "venueNote": " (Korean Institute of Intelligent Systems)",
       "award": "Distinguished Paper Award"
     }
   ]
