@@ -30,8 +30,8 @@ export const About = () => {
 
         <div className="flex flex-col text-lg sm:text-xl md:text-3xl gap-y-6 md:gap-y-10 font-light leading-relaxed max-w-4xl">
           <h3>
-            I received my M.S. in Computer Science from Yonsei University in
-            February 2026, where I conducted research in the{' '}
+            I received my M.S. in Computer Science from Yonsei University
+            Graduate School in February 2026, where I conducted research in the{' '}
             <a
               href="https://hanlabhome.wordpress.com/"
               target="_blank"
@@ -60,7 +60,7 @@ export const About = () => {
           </h3>
           <h3>
             Previously, I received a Bachelor of Science in Computer Engineering
-            from Yonsei University.
+            from Yonsei University Mirae Campus.
           </h3>
           <h3>
             I can be reliably reached on{' '}
