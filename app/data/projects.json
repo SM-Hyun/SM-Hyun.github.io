@@ -16,7 +16,7 @@
       {
         "type": "images",
         "gridColumns": 1,
-        "description": "Overall architecture of the proposed digital-twin-based deep visual servoing framework",
+        "description": "Overall architecture of the proposed digital-twin-based risk-aware deep visual servoing framework",
         "sources": [
           "/images/Light_overexposure/Framework.png"
         ]
