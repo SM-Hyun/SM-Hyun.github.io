@@ -21,7 +21,7 @@ export const About = () => {
 
         {/* 학문적 계보: Hutchinson — Yoon — Hyun */}
         <Image
-          src="/images/about/about_me.jpg"
+          src="/images/about/about_me_2026.jpg"
           alt="Academic lineage: Seth A. Hutchinson, Han Ul Yoon, and Seungmin Hyun"
           width={3456}
           height={1476}
