@@ -23,8 +23,8 @@ export const About = () => {
         <Image
           src="/images/about/about_me.jpg"
           alt="Academic lineage: Seth A. Hutchinson, Han Ul Yoon, and Seungmin Hyun"
-          width={1920}
-          height={813}
+          width={3456}
+          height={1476}
           className="w-full h-auto rounded-md"
         />
 
